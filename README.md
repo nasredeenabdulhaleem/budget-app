@@ -1,1 +1,1 @@
-# coding-project-template
+# budget-app-project
